@@ -1,0 +1,49 @@
+categories: []
+content: New Guide
+created: '2022-10-06T23:53:32.813Z'
+guideIntegrations:
+  discordRoleIds: []
+guideType: onboarding
+key: guide-name-git-guide-1-vxcvxcv
+name: Guide Name git guide 1
+publishStatus: Live
+showIncorrectOnCompletion: true
+steps:
+  - content: |-
+
+      Introduction Comments 
+              
+    name: Introduction
+    stepItems:
+      - label: Full Name
+        required: false
+        type: PublicShortInput
+        uuid: b9700a68-ac61-4b72-87d3-8d450096b1a7
+    uuid: a5166d45-b038-43c6-af36-039953b24bf2
+  - content: ''
+    name: Introduction Evaluation
+    stepItems:
+      - label: Full Name
+        required: false
+        type: PublicShortInput
+        uuid: a54948a8-8c97-447e-9853-eacf05300c9c
+      - answerKeys:
+          - dog_or_cat
+          - only_dog
+          - only_cat
+        choices:
+          - content: Dog And Cat
+            key: dog_and_cat
+          - content: Dog Or Cat
+            key: dog_or_cat
+          - content: Only Dog
+            key: only_dog
+          - content: Only Cat
+            key: only_cat
+        content: Dog or a Cat, Do or a Cat, Dog or a Cat
+        type: MultipleChoice
+        uuid: b64d312b-a522-4ff4-9359-efcd1668be4c
+    uuid: 7fe04eea-3455-4b1c-b244-e29957ed899f
+thumbnail: >-
+  https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
+uuid: guide-name-git-guide-vxcvxcv
