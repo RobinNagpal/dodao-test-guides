@@ -1,0 +1,71 @@
+{
+  "categories": [],
+  "content": "New Guide",
+  "created": "2022-10-07T00:18:51.745Z",
+  "guideIntegrations": {
+    "discordRoleIds": []
+  },
+  "guideType": "onboarding",
+  "key": "guide-name-121-vxcvxcv",
+  "name": "Guide Name 121",
+  "publishStatus": "Live",
+  "showIncorrectOnCompletion": true,
+  "steps": [
+    {
+      "content": "\nIntroduction Comments \n        ",
+      "name": "Introduction",
+      "stepItems": [
+        {
+          "label": "Full Name",
+          "required": false,
+          "type": "PublicShortInput",
+          "uuid": "1670d314-b2d5-4382-9de9-675f45f653cb"
+        }
+      ],
+      "uuid": "76d7f0e2-5577-4a9f-88a0-4afb7340fcf8"
+    },
+    {
+      "content": "",
+      "name": "Introduction Evaluation",
+      "stepItems": [
+        {
+          "label": "Full Name",
+          "required": false,
+          "type": "PublicShortInput",
+          "uuid": "2f3a8aff-cdd9-49a4-9d7e-ffce99801763"
+        },
+        {
+          "answerKeys": [
+            "dog_or_cat",
+            "only_dog",
+            "only_cat"
+          ],
+          "choices": [
+            {
+              "content": "Dog And Cat",
+              "key": "dog_and_cat"
+            },
+            {
+              "content": "Dog Or Cat",
+              "key": "dog_or_cat"
+            },
+            {
+              "content": "Only Dog",
+              "key": "only_dog"
+            },
+            {
+              "content": "Only Cat",
+              "key": "only_cat"
+            }
+          ],
+          "content": "Dog or a Cat, Do or a Cat, Dog or a Cat",
+          "type": "MultipleChoice",
+          "uuid": "a4528ef7-2be4-475f-9275-c94c0a49c895"
+        }
+      ],
+      "uuid": "2bfab31d-e0df-4b1a-9a0a-bc12c5e46c55"
+    }
+  ],
+  "thumbnail": "https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi",
+  "uuid": "bf158a62-fe6e-4e1f-beb4-a411690c533e"
+}
