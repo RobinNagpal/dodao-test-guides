@@ -1,0 +1,49 @@
+categories: []
+content: New Guide
+created: '2022-10-07T00:39:38.915Z'
+guideIntegrations:
+  discordRoleIds: []
+guideType: onboarding
+key: guide-name-vxcvxcv
+name: Guide Name
+publishStatus: Live
+showIncorrectOnCompletion: true
+steps:
+  - content: |-
+
+      Introduction Comments 
+              
+    name: Introduction
+    stepItems:
+      - label: Full Name
+        required: false
+        type: PublicShortInput
+        uuid: c5924e5a-0519-469a-9a83-d426e88ae7f3
+    uuid: ca7e3eff-9e93-4e10-9e35-eb6343e5fa62
+  - content: ''
+    name: Introduction Evaluation
+    stepItems:
+      - label: Full Name
+        required: false
+        type: PublicShortInput
+        uuid: eb664c21-6de6-4615-a784-30dbf31ec7ee
+      - answerKeys:
+          - dog_or_cat
+          - only_dog
+          - only_cat
+        choices:
+          - content: Dog And Cat
+            key: dog_and_cat
+          - content: Dog Or Cat
+            key: dog_or_cat
+          - content: Only Dog
+            key: only_dog
+          - content: Only Cat
+            key: only_cat
+        content: Dog or a Cat, Do or a Cat, Dog or a Cat
+        type: MultipleChoice
+        uuid: 65e66710-43d3-4bbb-9906-cc70fff299ed
+    uuid: 935537c8-b3f6-4502-8d88-3c1375b5fbac
+thumbnail: >-
+  https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
+uuid: 97d946fb-29c6-4535-8e57-d65c2d99a09a
