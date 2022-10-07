@@ -1,7 +1,7 @@
 {
   "categories": [],
   "content": "New Guide",
-  "created": "2022-10-07T00:41:35.358Z",
+  "created": "2022-10-07T00:41:58.987Z",
   "guideIntegrations": {
     "discordRoleIds": []
   },
@@ -20,6 +20,24 @@
           "required": false,
           "type": "PublicShortInput",
           "uuid": "c5924e5a-0519-469a-9a83-d426e88ae7f3"
+        },
+        {
+          "answerKeys": [
+            "abd8cb4f"
+          ],
+          "choices": [
+            {
+              "content": "d",
+              "key": "abd8cb4f"
+            },
+            {
+              "content": "dddd",
+              "key": "3ef2fda3"
+            }
+          ],
+          "content": "asdasd",
+          "type": "MultipleChoice",
+          "uuid": "c18d400a-aa47-48b4-89c6-291e35553fe7"
         }
       ],
       "uuid": "ca7e3eff-9e93-4e10-9e35-eb6343e5fa62"
