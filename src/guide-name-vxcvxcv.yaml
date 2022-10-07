@@ -1,11 +1,11 @@
 categories: []
 content: New Guide
-created: '2022-10-07T00:39:38.915Z'
+created: '2022-10-07T00:41:35.358Z'
 guideIntegrations:
   discordRoleIds: []
 guideType: onboarding
 key: guide-name-vxcvxcv
-name: Guide Name
+name: Guide Name 11
 publishStatus: Live
 showIncorrectOnCompletion: true
 steps:
@@ -46,4 +46,4 @@ steps:
     uuid: 935537c8-b3f6-4502-8d88-3c1375b5fbac
 thumbnail: >-
   https://d31h13bdjwgzxs.cloudfront.net/QmWy8EeMnxqx96VEPx2NBwzqtKxvMQqVVYvmPKgAYS2cUi
-uuid: 97d946fb-29c6-4535-8e57-d65c2d99a09a
+uuid: guide-name-vxcvxcv
